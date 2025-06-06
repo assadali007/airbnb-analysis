@@ -10,6 +10,6 @@ This project analyzes Airbnb listing data to uncover insights about pricing tren
 
 ## 🛠 Tools Used
 - **Python**: Pandas, NumPy (Data Cleaning & Analysis)
-- **Visualization**: Matplotlib, Seaborn, Plotly (Interactive Dashboards)
+- **Visualization**: Matplotlib,
 - **Notebook**: Jupyter Lab
 
